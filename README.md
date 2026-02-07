@@ -1,4 +1,7 @@
-# ☁️ Weather Website   LIVE DEMO:- shikhasharma-weather.netlify.app
+# ☁️ Weather Website   
+## 🌐 Live Demo
+👉 https://shikhasharma-weather.netlify.app/
+
 
 ## 📌 Project Title
 **Weather Website**
@@ -47,4 +50,5 @@ It displays current temperature, humidity, wind speed, and weather conditions us
 3. API returns real-time weather data  
 4. Data is processed using JavaScript  
 5. Weather details are displayed on the webpage  
+
 
